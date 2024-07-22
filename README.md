@@ -12,29 +12,42 @@
 * [Project Developers](#project-developers)
 
 ## Project Description
-Page developed for a travel agency aimed at selling travel packages and other related services such as travel insurance. It also includes a section for customer feedback, popular destinations, and interesting facts about some frequently visited locations.
+Jornada is a visually striking travel company website that showcases travel packages to beautiful destinations. Created using only HTML and CSS, this site provides a seamless and engaging user experience. The design is focused on highlighting various travel packages and categories, making it easy for users to find and learn more about the travel opportunities Jornada offers. The website serves as a digital brochure, giving potential travelers all the information they need to start planning their next adventure.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ## Features and Application Demonstration
-- `Feature 1`: A clean and organized page, divided and developed into sections with appropriate headings for better readability for the user.
-- `Feature 2`: Insertion of photographs of different sizes, however, inserted with the desired size on the screen, without overflowing the page sideways.
+- **Interactive Navigation Bar**: Located at the top with the Jornada logo on the left and menu options including Blog, Travel Packages, and Contact on the right.
+- **Full-width Banner**: Displays a captivating image of a destination, setting the tone and inviting users to explore the adventures Jornada offers.
+- **About Us Section**: Provides a brief description of Jornada, detailing the company's mission and values.
+- **Weekly Offers Section**: Features four cards each detailing a different travel package. Each card includes destination information, price, package inclusions, and a 'View Details' call-to-action button.
+- **Browse by Category**: Contains four smaller cards in a single row, each representing a different category such as National Packages, International Packages, Transfers, and Travel Insurance, complete with relevant images and descriptions.
+- **Popular Destinations**: Showcases two popular travel destinations, each occupying half of the screen width with stunning imagery, destination names, and brief descriptions.
+- **Payment Conditions Section**: Explains the payment terms with associated icons and descriptive text to guide customers on how they can pay for their travel.
+- **Customer Testimonials**: Displays testimonials from clients who have traveled with Jornada, including their profiles, ratings, and feedback.
+- **Footer with Full-width Image**: Mirrors the top banner and includes essential information such as the company logo, social media links, and business hours.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Access
-Project requirements:
- - Have your preferred IDE installed on your computer.
 
-Access the project hosted [here](https://jornada-gamma.vercel.app) and have fun:
- - Project hosted on Vercel.
- - Easy implementation, [click](https://jornada-gamma.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
+### Prerequisites
+- **Integrated Development Environment (IDE)**: An IDE such as Visual Studio Code is recommended for local development and customization of the project, though it is not necessary for accessing the hosted version.
 
-Have the code on your computer:
- - Access the project source code [here](https://github.com/victorhubarb/jornada) or download the project [here](https://github.com/victorhubarb/jornada/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
+### Online Access
+- **Live Demo**: Experience the Jornada website directly through its hosted version on Vercel:
+  - [Visit Jornada](https://jornada-gamma.vercel.app) to explore the travel packages and learn more about what Jornada offers without any setup required.
 
-Clone repository with the following steps:
- 1. Open the terminal
- 2. git clone https://github.com/victorhubarb/jornada.git
- 3. Press ENTER to create your clone
+### Local Setup
+- **Access and Download the Source Code**:
+  - Visit the [Jornada GitHub repository](https://github.com/victorhubarb/jornada) to view the source code.
+  - To download the project directly, [click here](https://github.com/victorhubarb/jornada/archive/refs/heads/main.zip), unzip the file after download, and open it in your IDE.
+
+- **Clone the Repository**:
+  ```bash
+  # Open your terminal
+  git clone https://github.com/victorhubarb/jornada.git
+  cd jornada
+  
+  # Now you are ready to work on the project locally.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Technologies Used
